@@ -231,7 +231,12 @@
     },
     {
       "name": "صنف جديد",
-      "productes": []
+      "productes": [
+        {
+          "name": "تيست",
+          "price": 12
+        }
+      ]
     }
   ]
 }
